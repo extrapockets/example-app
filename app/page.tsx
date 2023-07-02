@@ -2,8 +2,9 @@
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      
+    <main>
+      <h1 className='text-center underline'>Lil Hunters</h1>
+      <h2>a to-do list that pays</h2>
     </main>
   )
 }
